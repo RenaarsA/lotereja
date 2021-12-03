@@ -1,12 +1,16 @@
+
 table, th, td {
     border: 1px solid black;
   }
 
   table {
-   width: 100%;
-   height: top 35px;
+   width: 30cm;
  }
-
+ th{
+  height: top 35px;
+ }
  body {
-   background-color: aquamarine;
- }
+  background-color: green;
+} 
+
+
